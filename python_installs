@@ -1,3 +1,9 @@
-python3 -m pip install --user cookiecutter
-
 python3 -m pip install pipx
+
+# pipx is strongly recommended.
+pipx install cookiecutter
+
+# If pipx is not an option,
+# you can install cookiecutter in your Python user directory.
+python -m pip install --user cookiecutter
+python3 -m pip install --user cookiecutter
