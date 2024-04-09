@@ -7,3 +7,7 @@ pipx install cookiecutter
 # you can install cookiecutter in your Python user directory.
 python -m pip install --user cookiecutter
 python3 -m pip install --user cookiecutter
+
+
+
+pip install pipreqs
