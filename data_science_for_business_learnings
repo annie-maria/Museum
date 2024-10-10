@@ -1,0 +1,20 @@
+
+Types of Tasks in Data Science
+ • Classification and class probability estimation: Predicting which of a small set of classes an individual belongs to.
+ • Regression ("value estimation"): Estimating or predicting the numerical value of a variable for an individual.
+ • Similarity Matching: Identifying individuals who are similar based on the data known about them.
+ • Clustering: Grouping individuals by their similarity, not driven by a specific purpose.
+ • Co-occurrence Grouping: Finding associations between entities based on transactions involving them.
+ • Profiling: Characterizing the typical behavior of an individual, group, or population.
+ • Link Prediction: Predicting connections between data items, suggesting that a link should exist and estimating its strength.
+ • Data Reduction: Replacing a large dataset with a smaller one that retains most of the important information.
+ • Causal Modeling: Understanding what events or actions influence others.
+
+
+ CRISP-DM
+ • Business Understanding
+ • Data Understanding
+ • Data Preparation
+ • Modeling
+ • Evaluation
+ • Deployment
